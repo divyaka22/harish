@@ -3,4 +3,9 @@ bat
 cat
 dog
 egg
+<<<<<<< HEAD
+jaswanth 
+reddy
+=======
 dddddddddd
+>>>>>>> 536e32322708ebecd89ab2470fd406bcb12749d7
